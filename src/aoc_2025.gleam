@@ -1,5 +1,5 @@
-import day_01/part_02
+import day_02/part_01
 
 pub fn main() {
-  part_02.main()
+  part_01.main()
 }
